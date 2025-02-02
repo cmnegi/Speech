@@ -17,8 +17,11 @@ DATA Sets Link :-
 
 1-	UrbanSound8K :- https://goo.gl/8hY5ER  
 2-	Indian Songs  :- Rap Song Millionaire - Glory 128 Kbps.wav
+
                                   Devotional Song Achyutam Keshavam Krishna Damodaram.wav
+                                  
                                   Party Song  Hookah Bar Khiladi 786 128 Kbps.wav
+                                  
                                   Romatic Song O Mere Dil Ke Chain - Mere Jeevan Saathi 320 Kbps.wav
 
 2. UrbanSound8k Datset 
